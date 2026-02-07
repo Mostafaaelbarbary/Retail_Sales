@@ -3,7 +3,7 @@ Overview
 
 This project builds a simple end-to-end retail analytics pipeline using Python and SQL. The goal is to clean raw sales data, generate business insights, and forecast future revenue based on historical trends.
 
-What the Project Does
+What the Project Does:
 
 Loads and cleans raw retail sales data
 
@@ -17,11 +17,11 @@ Generates basic insight summaries
 
 Forecasts future revenue using time-series modeling
 
-Technologies
+Technologies:
 
 Python (Pandas, Matplotlib), SQLite, Prophet, Jupyter Notebook
 
-Key Results
+Key Results:
 
 Identified seasonal sales patterns with peak performance mid-year
 
